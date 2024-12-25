@@ -1,0 +1,528 @@
+-----Ref_text_0----- 
+ -----Chunk_1-----
+Chunk_content: Giờ mở cửa từ 6h đến 12h và 14h đến 21h hàng ngày
+Ref_text:
+Giờ mở cửa từ 6h đến 12h và 14h đến 21h hàng ngày
+Title: ['SÂN TENNIS', '1. Giờ mở cửa:']
+
+-----Ref_text_1----- 
+ -----Chunk_1-----
+Chunk_content: Để phục vụ Quý Cư dân được chu đáo, Ban Quản lý rất mong Quý Cư dân sử dụng dịch vụ tại khu Phức hợp Thể thao tuân thủ những Nội quy sau:
+Ref_text:
+Để phục vụ Quý Cư dân được chu đáo, Ban Quản lý rất mong Quý Cư dân sử dụng dịch vụ tại khu Phức hợp Thể thao tuân thủ những Nội quy sau:
+Title: ['SÂN TENNIS', '1. Giờ mở cửa:', 'Nội quy:']
+
+-----Ref_text_2----- 
+ -----Chunk_1-----
+Chunk_content: Các yêu cầu đặt tiện ích được gửi lên hệ thống từ ứng dụng Vinhomes Resident trên di động
+Ref_text:
+Các yêu cầu đặt tiện ích được gửi lên hệ thống từ ứng dụng Vinhomes Resident trên di động
+Ứng dụng Vinhomes Resident chuẩn được tải về từ Play Store/Apple Store chứ không được cài từ nguồn khác
+Thiết bị cài đặt ứng dụng cũng phải chạy hệ điều hành chuẩn: Không root máy, sử dụng các dịch vụ mới nhất của Google (Google Play services)
+Title: ['SÂN TENNIS', '1. Giờ mở cửa:', 'Nội quy:']
+
+-----Ref_text_2----- 
+ -----Chunk_2-----
+Chunk_content: Ứng dụng Vinhomes Resident chuẩn được tải về từ Play Store/Apple Store chứ không được cài từ nguồn khác
+Ref_text:
+Các yêu cầu đặt tiện ích được gửi lên hệ thống từ ứng dụng Vinhomes Resident trên di động
+Ứng dụng Vinhomes Resident chuẩn được tải về từ Play Store/Apple Store chứ không được cài từ nguồn khác
+Thiết bị cài đặt ứng dụng cũng phải chạy hệ điều hành chuẩn: Không root máy, sử dụng các dịch vụ mới nhất của Google (Google Play services)
+Title: ['SÂN TENNIS', '1. Giờ mở cửa:', 'Nội quy:']
+
+-----Ref_text_2----- 
+ -----Chunk_3-----
+Chunk_content: Thiết bị cài đặt ứng dụng cũng phải chạy hệ điều hành chuẩn: Không root máy, sử dụng các dịch vụ mới nhất của Google (Google Play services)
+Ref_text:
+Các yêu cầu đặt tiện ích được gửi lên hệ thống từ ứng dụng Vinhomes Resident trên di động
+Ứng dụng Vinhomes Resident chuẩn được tải về từ Play Store/Apple Store chứ không được cài từ nguồn khác
+Thiết bị cài đặt ứng dụng cũng phải chạy hệ điều hành chuẩn: Không root máy, sử dụng các dịch vụ mới nhất của Google (Google Play services)
+Title: ['SÂN TENNIS', '1. Giờ mở cửa:', 'Nội quy:']
+
+-----Ref_text_3----- 
+ -----Chunk_1-----
+Chunk_content: Quý khách vui lòng đặt lịch trước trên ứng dụng App Vinhomes Resident và mang theo Thẻ Cư dân khi sử dụng dịch vụ tại khu Phức hợp Thể thao.
+Ref_text:
+Quý khách vui lòng đặt lịch trước trên ứng dụng App Vinhomes Resident và mang theo Thẻ Cư dân khi sử dụng dịch vụ tại khu Phức hợp Thể thao.
+Giữ gìn vệ sinh, mỹ quan chung và không mang vật nuôi vào khu Phức hợp Thể thao.
+Có ý thức giữ gìn tài sản chung và thông báo ngay cho Ban Quản lý nếu phát hiện bất kỳ trường hợp hư hại nào đối với cơ sở vật chất của khu Phức hợp Thể thao.
+Tự trang bị và sử dụng các vật dụng cá nhân theo quy định của môn thể thao khi chơi trong khu Phức hợp Thể thao. Không đi giày đế cứng, giày cao gót vào sân.
+Tuân thủ nếp sống văn minh, không gây gổ đánh nhau, nói tục, chửi bậy.
+Trẻ em dưới 12 tuổi chỉ sử dụng sân khi có người lớn giám sát đi kèm.
+Nghiêm cấm hút thuốc trong khu Phức hợp Thể thao.
+Quý khách tự bảo quản tư trang, dụng cụ tập và tài sản cá nhân. Nếu có hư hại, mất mát Ban Quản lý Khu Đô thị Vinhomes Ocean Park không chịu trách nhiệm bồi thường.
+Người tập trong khu Phức hợp Thể thao phải tự chịu trách nhiệm đối với bất kỳ rủi ro nào có thể xảy đến. Ban Quản lý và/hoặc Chủ Đầu tư không chịu trách nhiệm đối với bất kỳ tai nạn, thương tích, tổn thất, mất mát nào xảy ra đối với người tập hoặc với bất kỳ người nào khác liên quan trực tiếp hoặc gián tiếp đến việc sử dụng cơ sở vật chất trong Khu phức hợp Thể thao.
+Sử dụng đúng công năng của sân theo đúng biển tên sân.
+Title: ['SÂN TENNIS', '2. Các quy định chung:']
+
+-----Ref_text_3----- 
+ -----Chunk_2-----
+Chunk_content: Giữ gìn vệ sinh, mỹ quan chung và không mang vật nuôi vào khu Phức hợp Thể thao.
+Ref_text:
+Quý khách vui lòng đặt lịch trước trên ứng dụng App Vinhomes Resident và mang theo Thẻ Cư dân khi sử dụng dịch vụ tại khu Phức hợp Thể thao.
+Giữ gìn vệ sinh, mỹ quan chung và không mang vật nuôi vào khu Phức hợp Thể thao.
+Có ý thức giữ gìn tài sản chung và thông báo ngay cho Ban Quản lý nếu phát hiện bất kỳ trường hợp hư hại nào đối với cơ sở vật chất của khu Phức hợp Thể thao.
+Tự trang bị và sử dụng các vật dụng cá nhân theo quy định của môn thể thao khi chơi trong khu Phức hợp Thể thao. Không đi giày đế cứng, giày cao gót vào sân.
+Tuân thủ nếp sống văn minh, không gây gổ đánh nhau, nói tục, chửi bậy.
+Trẻ em dưới 12 tuổi chỉ sử dụng sân khi có người lớn giám sát đi kèm.
+Nghiêm cấm hút thuốc trong khu Phức hợp Thể thao.
+Quý khách tự bảo quản tư trang, dụng cụ tập và tài sản cá nhân. Nếu có hư hại, mất mát Ban Quản lý Khu Đô thị Vinhomes Ocean Park không chịu trách nhiệm bồi thường.
+Người tập trong khu Phức hợp Thể thao phải tự chịu trách nhiệm đối với bất kỳ rủi ro nào có thể xảy đến. Ban Quản lý và/hoặc Chủ Đầu tư không chịu trách nhiệm đối với bất kỳ tai nạn, thương tích, tổn thất, mất mát nào xảy ra đối với người tập hoặc với bất kỳ người nào khác liên quan trực tiếp hoặc gián tiếp đến việc sử dụng cơ sở vật chất trong Khu phức hợp Thể thao.
+Sử dụng đúng công năng của sân theo đúng biển tên sân.
+Title: ['SÂN TENNIS', '2. Các quy định chung:']
+
+-----Ref_text_3----- 
+ -----Chunk_3-----
+Chunk_content: Có ý thức giữ gìn tài sản chung và thông báo ngay cho Ban Quản lý nếu phát hiện bất kỳ trường hợp hư hại nào đối với cơ sở vật chất của khu Phức hợp Thể thao.
+Ref_text:
+Quý khách vui lòng đặt lịch trước trên ứng dụng App Vinhomes Resident và mang theo Thẻ Cư dân khi sử dụng dịch vụ tại khu Phức hợp Thể thao.
+Giữ gìn vệ sinh, mỹ quan chung và không mang vật nuôi vào khu Phức hợp Thể thao.
+Có ý thức giữ gìn tài sản chung và thông báo ngay cho Ban Quản lý nếu phát hiện bất kỳ trường hợp hư hại nào đối với cơ sở vật chất của khu Phức hợp Thể thao.
+Tự trang bị và sử dụng các vật dụng cá nhân theo quy định của môn thể thao khi chơi trong khu Phức hợp Thể thao. Không đi giày đế cứng, giày cao gót vào sân.
+Tuân thủ nếp sống văn minh, không gây gổ đánh nhau, nói tục, chửi bậy.
+Trẻ em dưới 12 tuổi chỉ sử dụng sân khi có người lớn giám sát đi kèm.
+Nghiêm cấm hút thuốc trong khu Phức hợp Thể thao.
+Quý khách tự bảo quản tư trang, dụng cụ tập và tài sản cá nhân. Nếu có hư hại, mất mát Ban Quản lý Khu Đô thị Vinhomes Ocean Park không chịu trách nhiệm bồi thường.
+Người tập trong khu Phức hợp Thể thao phải tự chịu trách nhiệm đối với bất kỳ rủi ro nào có thể xảy đến. Ban Quản lý và/hoặc Chủ Đầu tư không chịu trách nhiệm đối với bất kỳ tai nạn, thương tích, tổn thất, mất mát nào xảy ra đối với người tập hoặc với bất kỳ người nào khác liên quan trực tiếp hoặc gián tiếp đến việc sử dụng cơ sở vật chất trong Khu phức hợp Thể thao.
+Sử dụng đúng công năng của sân theo đúng biển tên sân.
+Title: ['SÂN TENNIS', '2. Các quy định chung:']
+
+-----Ref_text_3----- 
+ -----Chunk_4-----
+Chunk_content: Tự trang bị và sử dụng các vật dụng cá nhân theo quy định của môn thể thao khi chơi trong khu Phức hợp Thể thao. Không đi giày đế cứng, giày cao gót vào sân.
+Ref_text:
+Quý khách vui lòng đặt lịch trước trên ứng dụng App Vinhomes Resident và mang theo Thẻ Cư dân khi sử dụng dịch vụ tại khu Phức hợp Thể thao.
+Giữ gìn vệ sinh, mỹ quan chung và không mang vật nuôi vào khu Phức hợp Thể thao.
+Có ý thức giữ gìn tài sản chung và thông báo ngay cho Ban Quản lý nếu phát hiện bất kỳ trường hợp hư hại nào đối với cơ sở vật chất của khu Phức hợp Thể thao.
+Tự trang bị và sử dụng các vật dụng cá nhân theo quy định của môn thể thao khi chơi trong khu Phức hợp Thể thao. Không đi giày đế cứng, giày cao gót vào sân.
+Tuân thủ nếp sống văn minh, không gây gổ đánh nhau, nói tục, chửi bậy.
+Trẻ em dưới 12 tuổi chỉ sử dụng sân khi có người lớn giám sát đi kèm.
+Nghiêm cấm hút thuốc trong khu Phức hợp Thể thao.
+Quý khách tự bảo quản tư trang, dụng cụ tập và tài sản cá nhân. Nếu có hư hại, mất mát Ban Quản lý Khu Đô thị Vinhomes Ocean Park không chịu trách nhiệm bồi thường.
+Người tập trong khu Phức hợp Thể thao phải tự chịu trách nhiệm đối với bất kỳ rủi ro nào có thể xảy đến. Ban Quản lý và/hoặc Chủ Đầu tư không chịu trách nhiệm đối với bất kỳ tai nạn, thương tích, tổn thất, mất mát nào xảy ra đối với người tập hoặc với bất kỳ người nào khác liên quan trực tiếp hoặc gián tiếp đến việc sử dụng cơ sở vật chất trong Khu phức hợp Thể thao.
+Sử dụng đúng công năng của sân theo đúng biển tên sân.
+Title: ['SÂN TENNIS', '2. Các quy định chung:']
+
+-----Ref_text_3----- 
+ -----Chunk_5-----
+Chunk_content: Tuân thủ nếp sống văn minh, không gây gổ đánh nhau, nói tục, chửi bậy.
+Ref_text:
+Quý khách vui lòng đặt lịch trước trên ứng dụng App Vinhomes Resident và mang theo Thẻ Cư dân khi sử dụng dịch vụ tại khu Phức hợp Thể thao.
+Giữ gìn vệ sinh, mỹ quan chung và không mang vật nuôi vào khu Phức hợp Thể thao.
+Có ý thức giữ gìn tài sản chung và thông báo ngay cho Ban Quản lý nếu phát hiện bất kỳ trường hợp hư hại nào đối với cơ sở vật chất của khu Phức hợp Thể thao.
+Tự trang bị và sử dụng các vật dụng cá nhân theo quy định của môn thể thao khi chơi trong khu Phức hợp Thể thao. Không đi giày đế cứng, giày cao gót vào sân.
+Tuân thủ nếp sống văn minh, không gây gổ đánh nhau, nói tục, chửi bậy.
+Trẻ em dưới 12 tuổi chỉ sử dụng sân khi có người lớn giám sát đi kèm.
+Nghiêm cấm hút thuốc trong khu Phức hợp Thể thao.
+Quý khách tự bảo quản tư trang, dụng cụ tập và tài sản cá nhân. Nếu có hư hại, mất mát Ban Quản lý Khu Đô thị Vinhomes Ocean Park không chịu trách nhiệm bồi thường.
+Người tập trong khu Phức hợp Thể thao phải tự chịu trách nhiệm đối với bất kỳ rủi ro nào có thể xảy đến. Ban Quản lý và/hoặc Chủ Đầu tư không chịu trách nhiệm đối với bất kỳ tai nạn, thương tích, tổn thất, mất mát nào xảy ra đối với người tập hoặc với bất kỳ người nào khác liên quan trực tiếp hoặc gián tiếp đến việc sử dụng cơ sở vật chất trong Khu phức hợp Thể thao.
+Sử dụng đúng công năng của sân theo đúng biển tên sân.
+Title: ['SÂN TENNIS', '2. Các quy định chung:']
+
+-----Ref_text_3----- 
+ -----Chunk_6-----
+Chunk_content: Trẻ em dưới 12 tuổi chỉ sử dụng sân khi có người lớn giám sát đi kèm.
+Ref_text:
+Quý khách vui lòng đặt lịch trước trên ứng dụng App Vinhomes Resident và mang theo Thẻ Cư dân khi sử dụng dịch vụ tại khu Phức hợp Thể thao.
+Giữ gìn vệ sinh, mỹ quan chung và không mang vật nuôi vào khu Phức hợp Thể thao.
+Có ý thức giữ gìn tài sản chung và thông báo ngay cho Ban Quản lý nếu phát hiện bất kỳ trường hợp hư hại nào đối với cơ sở vật chất của khu Phức hợp Thể thao.
+Tự trang bị và sử dụng các vật dụng cá nhân theo quy định của môn thể thao khi chơi trong khu Phức hợp Thể thao. Không đi giày đế cứng, giày cao gót vào sân.
+Tuân thủ nếp sống văn minh, không gây gổ đánh nhau, nói tục, chửi bậy.
+Trẻ em dưới 12 tuổi chỉ sử dụng sân khi có người lớn giám sát đi kèm.
+Nghiêm cấm hút thuốc trong khu Phức hợp Thể thao.
+Quý khách tự bảo quản tư trang, dụng cụ tập và tài sản cá nhân. Nếu có hư hại, mất mát Ban Quản lý Khu Đô thị Vinhomes Ocean Park không chịu trách nhiệm bồi thường.
+Người tập trong khu Phức hợp Thể thao phải tự chịu trách nhiệm đối với bất kỳ rủi ro nào có thể xảy đến. Ban Quản lý và/hoặc Chủ Đầu tư không chịu trách nhiệm đối với bất kỳ tai nạn, thương tích, tổn thất, mất mát nào xảy ra đối với người tập hoặc với bất kỳ người nào khác liên quan trực tiếp hoặc gián tiếp đến việc sử dụng cơ sở vật chất trong Khu phức hợp Thể thao.
+Sử dụng đúng công năng của sân theo đúng biển tên sân.
+Title: ['SÂN TENNIS', '2. Các quy định chung:']
+
+-----Ref_text_3----- 
+ -----Chunk_7-----
+Chunk_content: Nghiêm cấm hút thuốc trong khu Phức hợp Thể thao.
+Ref_text:
+Quý khách vui lòng đặt lịch trước trên ứng dụng App Vinhomes Resident và mang theo Thẻ Cư dân khi sử dụng dịch vụ tại khu Phức hợp Thể thao.
+Giữ gìn vệ sinh, mỹ quan chung và không mang vật nuôi vào khu Phức hợp Thể thao.
+Có ý thức giữ gìn tài sản chung và thông báo ngay cho Ban Quản lý nếu phát hiện bất kỳ trường hợp hư hại nào đối với cơ sở vật chất của khu Phức hợp Thể thao.
+Tự trang bị và sử dụng các vật dụng cá nhân theo quy định của môn thể thao khi chơi trong khu Phức hợp Thể thao. Không đi giày đế cứng, giày cao gót vào sân.
+Tuân thủ nếp sống văn minh, không gây gổ đánh nhau, nói tục, chửi bậy.
+Trẻ em dưới 12 tuổi chỉ sử dụng sân khi có người lớn giám sát đi kèm.
+Nghiêm cấm hút thuốc trong khu Phức hợp Thể thao.
+Quý khách tự bảo quản tư trang, dụng cụ tập và tài sản cá nhân. Nếu có hư hại, mất mát Ban Quản lý Khu Đô thị Vinhomes Ocean Park không chịu trách nhiệm bồi thường.
+Người tập trong khu Phức hợp Thể thao phải tự chịu trách nhiệm đối với bất kỳ rủi ro nào có thể xảy đến. Ban Quản lý và/hoặc Chủ Đầu tư không chịu trách nhiệm đối với bất kỳ tai nạn, thương tích, tổn thất, mất mát nào xảy ra đối với người tập hoặc với bất kỳ người nào khác liên quan trực tiếp hoặc gián tiếp đến việc sử dụng cơ sở vật chất trong Khu phức hợp Thể thao.
+Sử dụng đúng công năng của sân theo đúng biển tên sân.
+Title: ['SÂN TENNIS', '2. Các quy định chung:']
+
+-----Ref_text_3----- 
+ -----Chunk_8-----
+Chunk_content: Quý khách tự bảo quản tư trang, dụng cụ tập và tài sản cá nhân. Nếu có hư hại, mất mát Ban Quản lý Khu Đô thị Vinhomes Ocean Park không chịu trách nhiệm bồi thường.
+Ref_text:
+Quý khách vui lòng đặt lịch trước trên ứng dụng App Vinhomes Resident và mang theo Thẻ Cư dân khi sử dụng dịch vụ tại khu Phức hợp Thể thao.
+Giữ gìn vệ sinh, mỹ quan chung và không mang vật nuôi vào khu Phức hợp Thể thao.
+Có ý thức giữ gìn tài sản chung và thông báo ngay cho Ban Quản lý nếu phát hiện bất kỳ trường hợp hư hại nào đối với cơ sở vật chất của khu Phức hợp Thể thao.
+Tự trang bị và sử dụng các vật dụng cá nhân theo quy định của môn thể thao khi chơi trong khu Phức hợp Thể thao. Không đi giày đế cứng, giày cao gót vào sân.
+Tuân thủ nếp sống văn minh, không gây gổ đánh nhau, nói tục, chửi bậy.
+Trẻ em dưới 12 tuổi chỉ sử dụng sân khi có người lớn giám sát đi kèm.
+Nghiêm cấm hút thuốc trong khu Phức hợp Thể thao.
+Quý khách tự bảo quản tư trang, dụng cụ tập và tài sản cá nhân. Nếu có hư hại, mất mát Ban Quản lý Khu Đô thị Vinhomes Ocean Park không chịu trách nhiệm bồi thường.
+Người tập trong khu Phức hợp Thể thao phải tự chịu trách nhiệm đối với bất kỳ rủi ro nào có thể xảy đến. Ban Quản lý và/hoặc Chủ Đầu tư không chịu trách nhiệm đối với bất kỳ tai nạn, thương tích, tổn thất, mất mát nào xảy ra đối với người tập hoặc với bất kỳ người nào khác liên quan trực tiếp hoặc gián tiếp đến việc sử dụng cơ sở vật chất trong Khu phức hợp Thể thao.
+Sử dụng đúng công năng của sân theo đúng biển tên sân.
+Title: ['SÂN TENNIS', '2. Các quy định chung:']
+
+-----Ref_text_3----- 
+ -----Chunk_9-----
+Chunk_content: Người tập trong khu Phức hợp Thể thao phải tự chịu trách nhiệm đối với bất kỳ rủi ro nào có thể xảy đến. Ban Quản lý và/hoặc Chủ Đầu tư không chịu trách nhiệm đối với bất kỳ tai nạn, thương tích, tổn thất, mất mát nào xảy ra đối với người tập hoặc với bất kỳ người nào khác liên quan trực tiếp hoặc gián tiếp đến việc sử dụng cơ sở vật chất trong Khu phức hợp Thể thao.
+Ref_text:
+Quý khách vui lòng đặt lịch trước trên ứng dụng App Vinhomes Resident và mang theo Thẻ Cư dân khi sử dụng dịch vụ tại khu Phức hợp Thể thao.
+Giữ gìn vệ sinh, mỹ quan chung và không mang vật nuôi vào khu Phức hợp Thể thao.
+Có ý thức giữ gìn tài sản chung và thông báo ngay cho Ban Quản lý nếu phát hiện bất kỳ trường hợp hư hại nào đối với cơ sở vật chất của khu Phức hợp Thể thao.
+Tự trang bị và sử dụng các vật dụng cá nhân theo quy định của môn thể thao khi chơi trong khu Phức hợp Thể thao. Không đi giày đế cứng, giày cao gót vào sân.
+Tuân thủ nếp sống văn minh, không gây gổ đánh nhau, nói tục, chửi bậy.
+Trẻ em dưới 12 tuổi chỉ sử dụng sân khi có người lớn giám sát đi kèm.
+Nghiêm cấm hút thuốc trong khu Phức hợp Thể thao.
+Quý khách tự bảo quản tư trang, dụng cụ tập và tài sản cá nhân. Nếu có hư hại, mất mát Ban Quản lý Khu Đô thị Vinhomes Ocean Park không chịu trách nhiệm bồi thường.
+Người tập trong khu Phức hợp Thể thao phải tự chịu trách nhiệm đối với bất kỳ rủi ro nào có thể xảy đến. Ban Quản lý và/hoặc Chủ Đầu tư không chịu trách nhiệm đối với bất kỳ tai nạn, thương tích, tổn thất, mất mát nào xảy ra đối với người tập hoặc với bất kỳ người nào khác liên quan trực tiếp hoặc gián tiếp đến việc sử dụng cơ sở vật chất trong Khu phức hợp Thể thao.
+Sử dụng đúng công năng của sân theo đúng biển tên sân.
+Title: ['SÂN TENNIS', '2. Các quy định chung:']
+
+-----Ref_text_3----- 
+ -----Chunk_10-----
+Chunk_content: Sử dụng đúng công năng của sân theo đúng biển tên sân.
+Ref_text:
+Quý khách vui lòng đặt lịch trước trên ứng dụng App Vinhomes Resident và mang theo Thẻ Cư dân khi sử dụng dịch vụ tại khu Phức hợp Thể thao.
+Giữ gìn vệ sinh, mỹ quan chung và không mang vật nuôi vào khu Phức hợp Thể thao.
+Có ý thức giữ gìn tài sản chung và thông báo ngay cho Ban Quản lý nếu phát hiện bất kỳ trường hợp hư hại nào đối với cơ sở vật chất của khu Phức hợp Thể thao.
+Tự trang bị và sử dụng các vật dụng cá nhân theo quy định của môn thể thao khi chơi trong khu Phức hợp Thể thao. Không đi giày đế cứng, giày cao gót vào sân.
+Tuân thủ nếp sống văn minh, không gây gổ đánh nhau, nói tục, chửi bậy.
+Trẻ em dưới 12 tuổi chỉ sử dụng sân khi có người lớn giám sát đi kèm.
+Nghiêm cấm hút thuốc trong khu Phức hợp Thể thao.
+Quý khách tự bảo quản tư trang, dụng cụ tập và tài sản cá nhân. Nếu có hư hại, mất mát Ban Quản lý Khu Đô thị Vinhomes Ocean Park không chịu trách nhiệm bồi thường.
+Người tập trong khu Phức hợp Thể thao phải tự chịu trách nhiệm đối với bất kỳ rủi ro nào có thể xảy đến. Ban Quản lý và/hoặc Chủ Đầu tư không chịu trách nhiệm đối với bất kỳ tai nạn, thương tích, tổn thất, mất mát nào xảy ra đối với người tập hoặc với bất kỳ người nào khác liên quan trực tiếp hoặc gián tiếp đến việc sử dụng cơ sở vật chất trong Khu phức hợp Thể thao.
+Sử dụng đúng công năng của sân theo đúng biển tên sân.
+Title: ['SÂN TENNIS', '2. Các quy định chung:']
+
+-----Ref_text_4----- 
+ -----Chunk_1-----
+Chunk_content: Mang vũ khí, hung khí, chất cháy nổ, hóa chất độc hại, hàng cấm vào Khu tiện ích.
+Ref_text:
+Mang vũ khí, hung khí, chất cháy nổ, hóa chất độc hại, hàng cấm vào Khu tiện ích.
+Sử dụng ma túy, các chất kích thích, tổ chức đánh bạc, bói toán, mại dâm, làm mất an ninh, trật tự và thực hiện các hành vi vi phạm pháp luật khác trong Khu tiện ích;
+Gây tiếng ồn quá mức quy định làm ảnh hưởng đến trật tự, trị an trong Khu Đô thị (ví dụ: sử dụng các thiết bị phát ra âm thanh quá lớn, hát Karaoke…);
+Hun khói, sử dụng gas, xăng, dầu và các hóa chất dễ cháy khác trong Khu tiện ích;
+Làm hư hại, sử dụng các dụng cụ, thiết bị, công trình tiện ích không đúng chức năng, đối tượng;
+Bán hàng, xả rác, chất thải bừa bãi không đúng nơi quy định;
+Mang theo các loại gia súc, gia cầm, vật nuôi.
+Title: ['SÂN TENNIS', '3. Các hành vi nghiêm cấm']
+
+-----Ref_text_4----- 
+ -----Chunk_2-----
+Chunk_content: Sử dụng ma túy, các chất kích thích, tổ chức đánh bạc, bói toán, mại dâm, làm mất an ninh, trật tự và thực hiện các hành vi vi phạm pháp luật khác trong Khu tiện ích;
+Ref_text:
+Mang vũ khí, hung khí, chất cháy nổ, hóa chất độc hại, hàng cấm vào Khu tiện ích.
+Sử dụng ma túy, các chất kích thích, tổ chức đánh bạc, bói toán, mại dâm, làm mất an ninh, trật tự và thực hiện các hành vi vi phạm pháp luật khác trong Khu tiện ích;
+Gây tiếng ồn quá mức quy định làm ảnh hưởng đến trật tự, trị an trong Khu Đô thị (ví dụ: sử dụng các thiết bị phát ra âm thanh quá lớn, hát Karaoke…);
+Hun khói, sử dụng gas, xăng, dầu và các hóa chất dễ cháy khác trong Khu tiện ích;
+Làm hư hại, sử dụng các dụng cụ, thiết bị, công trình tiện ích không đúng chức năng, đối tượng;
+Bán hàng, xả rác, chất thải bừa bãi không đúng nơi quy định;
+Mang theo các loại gia súc, gia cầm, vật nuôi.
+Title: ['SÂN TENNIS', '3. Các hành vi nghiêm cấm']
+
+-----Ref_text_4----- 
+ -----Chunk_3-----
+Chunk_content: Gây tiếng ồn quá mức quy định làm ảnh hưởng đến trật tự, trị an trong Khu Đô thị (ví dụ: sử dụng các thiết bị phát ra âm thanh quá lớn, hát Karaoke…);
+Ref_text:
+Mang vũ khí, hung khí, chất cháy nổ, hóa chất độc hại, hàng cấm vào Khu tiện ích.
+Sử dụng ma túy, các chất kích thích, tổ chức đánh bạc, bói toán, mại dâm, làm mất an ninh, trật tự và thực hiện các hành vi vi phạm pháp luật khác trong Khu tiện ích;
+Gây tiếng ồn quá mức quy định làm ảnh hưởng đến trật tự, trị an trong Khu Đô thị (ví dụ: sử dụng các thiết bị phát ra âm thanh quá lớn, hát Karaoke…);
+Hun khói, sử dụng gas, xăng, dầu và các hóa chất dễ cháy khác trong Khu tiện ích;
+Làm hư hại, sử dụng các dụng cụ, thiết bị, công trình tiện ích không đúng chức năng, đối tượng;
+Bán hàng, xả rác, chất thải bừa bãi không đúng nơi quy định;
+Mang theo các loại gia súc, gia cầm, vật nuôi.
+Title: ['SÂN TENNIS', '3. Các hành vi nghiêm cấm']
+
+-----Ref_text_4----- 
+ -----Chunk_4-----
+Chunk_content: Hun khói, sử dụng gas, xăng, dầu và các hóa chất dễ cháy khác trong Khu tiện ích;
+Ref_text:
+Mang vũ khí, hung khí, chất cháy nổ, hóa chất độc hại, hàng cấm vào Khu tiện ích.
+Sử dụng ma túy, các chất kích thích, tổ chức đánh bạc, bói toán, mại dâm, làm mất an ninh, trật tự và thực hiện các hành vi vi phạm pháp luật khác trong Khu tiện ích;
+Gây tiếng ồn quá mức quy định làm ảnh hưởng đến trật tự, trị an trong Khu Đô thị (ví dụ: sử dụng các thiết bị phát ra âm thanh quá lớn, hát Karaoke…);
+Hun khói, sử dụng gas, xăng, dầu và các hóa chất dễ cháy khác trong Khu tiện ích;
+Làm hư hại, sử dụng các dụng cụ, thiết bị, công trình tiện ích không đúng chức năng, đối tượng;
+Bán hàng, xả rác, chất thải bừa bãi không đúng nơi quy định;
+Mang theo các loại gia súc, gia cầm, vật nuôi.
+Title: ['SÂN TENNIS', '3. Các hành vi nghiêm cấm']
+
+-----Ref_text_4----- 
+ -----Chunk_5-----
+Chunk_content: Làm hư hại, sử dụng các dụng cụ, thiết bị, công trình tiện ích không đúng chức năng, đối tượng;
+Ref_text:
+Mang vũ khí, hung khí, chất cháy nổ, hóa chất độc hại, hàng cấm vào Khu tiện ích.
+Sử dụng ma túy, các chất kích thích, tổ chức đánh bạc, bói toán, mại dâm, làm mất an ninh, trật tự và thực hiện các hành vi vi phạm pháp luật khác trong Khu tiện ích;
+Gây tiếng ồn quá mức quy định làm ảnh hưởng đến trật tự, trị an trong Khu Đô thị (ví dụ: sử dụng các thiết bị phát ra âm thanh quá lớn, hát Karaoke…);
+Hun khói, sử dụng gas, xăng, dầu và các hóa chất dễ cháy khác trong Khu tiện ích;
+Làm hư hại, sử dụng các dụng cụ, thiết bị, công trình tiện ích không đúng chức năng, đối tượng;
+Bán hàng, xả rác, chất thải bừa bãi không đúng nơi quy định;
+Mang theo các loại gia súc, gia cầm, vật nuôi.
+Title: ['SÂN TENNIS', '3. Các hành vi nghiêm cấm']
+
+-----Ref_text_4----- 
+ -----Chunk_6-----
+Chunk_content: Bán hàng, xả rác, chất thải bừa bãi không đúng nơi quy định;
+Ref_text:
+Mang vũ khí, hung khí, chất cháy nổ, hóa chất độc hại, hàng cấm vào Khu tiện ích.
+Sử dụng ma túy, các chất kích thích, tổ chức đánh bạc, bói toán, mại dâm, làm mất an ninh, trật tự và thực hiện các hành vi vi phạm pháp luật khác trong Khu tiện ích;
+Gây tiếng ồn quá mức quy định làm ảnh hưởng đến trật tự, trị an trong Khu Đô thị (ví dụ: sử dụng các thiết bị phát ra âm thanh quá lớn, hát Karaoke…);
+Hun khói, sử dụng gas, xăng, dầu và các hóa chất dễ cháy khác trong Khu tiện ích;
+Làm hư hại, sử dụng các dụng cụ, thiết bị, công trình tiện ích không đúng chức năng, đối tượng;
+Bán hàng, xả rác, chất thải bừa bãi không đúng nơi quy định;
+Mang theo các loại gia súc, gia cầm, vật nuôi.
+Title: ['SÂN TENNIS', '3. Các hành vi nghiêm cấm']
+
+-----Ref_text_4----- 
+ -----Chunk_7-----
+Chunk_content: Mang theo các loại gia súc, gia cầm, vật nuôi.
+Ref_text:
+Mang vũ khí, hung khí, chất cháy nổ, hóa chất độc hại, hàng cấm vào Khu tiện ích.
+Sử dụng ma túy, các chất kích thích, tổ chức đánh bạc, bói toán, mại dâm, làm mất an ninh, trật tự và thực hiện các hành vi vi phạm pháp luật khác trong Khu tiện ích;
+Gây tiếng ồn quá mức quy định làm ảnh hưởng đến trật tự, trị an trong Khu Đô thị (ví dụ: sử dụng các thiết bị phát ra âm thanh quá lớn, hát Karaoke…);
+Hun khói, sử dụng gas, xăng, dầu và các hóa chất dễ cháy khác trong Khu tiện ích;
+Làm hư hại, sử dụng các dụng cụ, thiết bị, công trình tiện ích không đúng chức năng, đối tượng;
+Bán hàng, xả rác, chất thải bừa bãi không đúng nơi quy định;
+Mang theo các loại gia súc, gia cầm, vật nuôi.
+Title: ['SÂN TENNIS', '3. Các hành vi nghiêm cấm']
+
+-----Ref_text_5----- 
+ -----Chunk_1-----
+Chunk_content: Ban Quản lý có quyền nhắc nhở, lập biên bản và xử lý đối với các hành vi vi phạm Nội quy và/hoặc mời những cá nhân vi phạm Nội quy ra khỏi Khu tiện ích.
+Ref_text:
+Ban Quản lý có quyền nhắc nhở, lập biên bản và xử lý đối với các hành vi vi phạm Nội quy và/hoặc mời những cá nhân vi phạm Nội quy ra khỏi Khu tiện ích.
+Title: ['SÂN TENNIS', '3. Các hành vi nghiêm cấm']
+
+-----Ref_text_6----- 
+ -----Chunk_1-----
+Chunk_content: Khi xảy ra tình huống cần tư vấn hoặc hỗ trợ, Quý Khách vui lòng thông báo cho nhân viên bảo vệ, nhân viên quản lý hoặc liên hệ qua số điện thoại: một chín không không hai ba hai ba tám chín (nhánh số 4) để được hỗ trợ.
+Ref_text:
+Khi xảy ra tình huống cần tư vấn hoặc hỗ trợ, Quý Khách vui lòng thông báo cho nhân viên bảo vệ, nhân viên quản lý hoặc liên hệ qua số điện thoại: một chín không không hai ba hai ba tám chín (nhánh số 4) để được hỗ trợ.
+Title: ['SÂN TENNIS', '3. Các hành vi nghiêm cấm', 'Lưu ý:']
+
+-----Ref_text_7----- 
+ -----Chunk_1-----
+Chunk_content: Ban Quản lý xin tiếp tục lưu ý và đề nghị Quý Cư dân tuân thủ đầy đủ quy định sử dụng Khu phức hợp Thể thao như sau:
+Ref_text:
+Ban Quản lý xin tiếp tục lưu ý và đề nghị Quý Cư dân tuân thủ đầy đủ quy định sử dụng Khu phức hợp Thể thao như sau:
+Title: ['SÂN TENNIS', '4. Quy định sử dụng Khu phức hợp Thể thao']
+
+-----Ref_text_8----- 
+ -----Chunk_1-----
+Chunk_content: Quý Cư dân vui lòng đặt lịch trước 01 ngày trên ứng dụng, mang theo Thẻ Cư dân và xuất trình nội dung lịch sử đã đặt thành công trên ứng dụng trên điện thoại (không bao gồm ảnh chụp, bản in cứng) trước khi sử dụng dịch vụ tại Khu phức hợp Thể thao;
+Ref_text:
+Quý Cư dân vui lòng đặt lịch trước 01 ngày trên ứng dụng, mang theo Thẻ Cư dân và xuất trình nội dung lịch sử đã đặt thành công trên ứng dụng trên điện thoại (không bao gồm ảnh chụp, bản in cứng) trước khi sử dụng dịch vụ tại Khu phức hợp Thể thao;
+Quý cư dân vui lòng vào App và thao tác đặt lịch sử dụng trong giờ hành chính từ 08:30 đến 17:30
+Sử dụng theo đúng khung giờ đã đặt, trường hợp đến muộn từ 30 phút trở lên được coi là hủy lịch;
+Thao tác hủy trên ứng dụng hoặc thông báo cho Ban Quản lý ít nhất 02 tiếng trước giờ đã đăng ký nếu thay đổi kế hoạch sử dụng;
+Giữ gìn vệ sinh, mỹ quan chung và không mang vật nuôi vào Khu phức hợp Thể thao;
+Có ý thức giữ gìn tài sản chung và thông báo ngay cho Ban Quản lý nếu phát hiện bất kỳ trường hợp hư hại nào đối với cơ sở vật chất của Khu phức hợp Thể thao. Không tự ý thay đổi các trang thiết bị đã được bố trí theo tiêu chuẩn;
+Không đi giày đế cứng, giày cao gót vào sân;
+Tuân thủ nếp sống văn minh, không gây gổ đánh nhau, nói tục, chửi bậy;
+Trẻ em dưới 12 tuổi chỉ sử dụng sân khi có người lớn giám sát đi kèm;
+Nghiêm cấm hút thuốc trong Khu phức hợp Thể thao;
+Không tổ chức dạy và học các môn thể thao tại Khu phức hợp Thể thao nhằm mục đích kinh doanh, cho thuê/cho mượn Thẻ Cư dân/vị trí đã đặt thành công dưới mọi hình thức.
+Title: ['SÂN TENNIS', '4. Quy định sử dụng Khu phức hợp Thể thao']
+
+-----Ref_text_8----- 
+ -----Chunk_2-----
+Chunk_content: Quý cư dân vui lòng vào App và thao tác đặt lịch sử dụng trong giờ hành chính từ 08:30 đến 17:30
+Ref_text:
+Quý Cư dân vui lòng đặt lịch trước 01 ngày trên ứng dụng, mang theo Thẻ Cư dân và xuất trình nội dung lịch sử đã đặt thành công trên ứng dụng trên điện thoại (không bao gồm ảnh chụp, bản in cứng) trước khi sử dụng dịch vụ tại Khu phức hợp Thể thao;
+Quý cư dân vui lòng vào App và thao tác đặt lịch sử dụng trong giờ hành chính từ 08:30 đến 17:30
+Sử dụng theo đúng khung giờ đã đặt, trường hợp đến muộn từ 30 phút trở lên được coi là hủy lịch;
+Thao tác hủy trên ứng dụng hoặc thông báo cho Ban Quản lý ít nhất 02 tiếng trước giờ đã đăng ký nếu thay đổi kế hoạch sử dụng;
+Giữ gìn vệ sinh, mỹ quan chung và không mang vật nuôi vào Khu phức hợp Thể thao;
+Có ý thức giữ gìn tài sản chung và thông báo ngay cho Ban Quản lý nếu phát hiện bất kỳ trường hợp hư hại nào đối với cơ sở vật chất của Khu phức hợp Thể thao. Không tự ý thay đổi các trang thiết bị đã được bố trí theo tiêu chuẩn;
+Không đi giày đế cứng, giày cao gót vào sân;
+Tuân thủ nếp sống văn minh, không gây gổ đánh nhau, nói tục, chửi bậy;
+Trẻ em dưới 12 tuổi chỉ sử dụng sân khi có người lớn giám sát đi kèm;
+Nghiêm cấm hút thuốc trong Khu phức hợp Thể thao;
+Không tổ chức dạy và học các môn thể thao tại Khu phức hợp Thể thao nhằm mục đích kinh doanh, cho thuê/cho mượn Thẻ Cư dân/vị trí đã đặt thành công dưới mọi hình thức.
+Title: ['SÂN TENNIS', '4. Quy định sử dụng Khu phức hợp Thể thao']
+
+-----Ref_text_8----- 
+ -----Chunk_3-----
+Chunk_content: Sử dụng theo đúng khung giờ đã đặt, trường hợp đến muộn từ 30 phút trở lên được coi là hủy lịch;
+Ref_text:
+Quý Cư dân vui lòng đặt lịch trước 01 ngày trên ứng dụng, mang theo Thẻ Cư dân và xuất trình nội dung lịch sử đã đặt thành công trên ứng dụng trên điện thoại (không bao gồm ảnh chụp, bản in cứng) trước khi sử dụng dịch vụ tại Khu phức hợp Thể thao;
+Quý cư dân vui lòng vào App và thao tác đặt lịch sử dụng trong giờ hành chính từ 08:30 đến 17:30
+Sử dụng theo đúng khung giờ đã đặt, trường hợp đến muộn từ 30 phút trở lên được coi là hủy lịch;
+Thao tác hủy trên ứng dụng hoặc thông báo cho Ban Quản lý ít nhất 02 tiếng trước giờ đã đăng ký nếu thay đổi kế hoạch sử dụng;
+Giữ gìn vệ sinh, mỹ quan chung và không mang vật nuôi vào Khu phức hợp Thể thao;
+Có ý thức giữ gìn tài sản chung và thông báo ngay cho Ban Quản lý nếu phát hiện bất kỳ trường hợp hư hại nào đối với cơ sở vật chất của Khu phức hợp Thể thao. Không tự ý thay đổi các trang thiết bị đã được bố trí theo tiêu chuẩn;
+Không đi giày đế cứng, giày cao gót vào sân;
+Tuân thủ nếp sống văn minh, không gây gổ đánh nhau, nói tục, chửi bậy;
+Trẻ em dưới 12 tuổi chỉ sử dụng sân khi có người lớn giám sát đi kèm;
+Nghiêm cấm hút thuốc trong Khu phức hợp Thể thao;
+Không tổ chức dạy và học các môn thể thao tại Khu phức hợp Thể thao nhằm mục đích kinh doanh, cho thuê/cho mượn Thẻ Cư dân/vị trí đã đặt thành công dưới mọi hình thức.
+Title: ['SÂN TENNIS', '4. Quy định sử dụng Khu phức hợp Thể thao']
+
+-----Ref_text_8----- 
+ -----Chunk_4-----
+Chunk_content: Thao tác hủy trên ứng dụng hoặc thông báo cho Ban Quản lý ít nhất 02 tiếng trước giờ đã đăng ký nếu thay đổi kế hoạch sử dụng;
+Ref_text:
+Quý Cư dân vui lòng đặt lịch trước 01 ngày trên ứng dụng, mang theo Thẻ Cư dân và xuất trình nội dung lịch sử đã đặt thành công trên ứng dụng trên điện thoại (không bao gồm ảnh chụp, bản in cứng) trước khi sử dụng dịch vụ tại Khu phức hợp Thể thao;
+Quý cư dân vui lòng vào App và thao tác đặt lịch sử dụng trong giờ hành chính từ 08:30 đến 17:30
+Sử dụng theo đúng khung giờ đã đặt, trường hợp đến muộn từ 30 phút trở lên được coi là hủy lịch;
+Thao tác hủy trên ứng dụng hoặc thông báo cho Ban Quản lý ít nhất 02 tiếng trước giờ đã đăng ký nếu thay đổi kế hoạch sử dụng;
+Giữ gìn vệ sinh, mỹ quan chung và không mang vật nuôi vào Khu phức hợp Thể thao;
+Có ý thức giữ gìn tài sản chung và thông báo ngay cho Ban Quản lý nếu phát hiện bất kỳ trường hợp hư hại nào đối với cơ sở vật chất của Khu phức hợp Thể thao. Không tự ý thay đổi các trang thiết bị đã được bố trí theo tiêu chuẩn;
+Không đi giày đế cứng, giày cao gót vào sân;
+Tuân thủ nếp sống văn minh, không gây gổ đánh nhau, nói tục, chửi bậy;
+Trẻ em dưới 12 tuổi chỉ sử dụng sân khi có người lớn giám sát đi kèm;
+Nghiêm cấm hút thuốc trong Khu phức hợp Thể thao;
+Không tổ chức dạy và học các môn thể thao tại Khu phức hợp Thể thao nhằm mục đích kinh doanh, cho thuê/cho mượn Thẻ Cư dân/vị trí đã đặt thành công dưới mọi hình thức.
+Title: ['SÂN TENNIS', '4. Quy định sử dụng Khu phức hợp Thể thao']
+
+-----Ref_text_8----- 
+ -----Chunk_5-----
+Chunk_content: Giữ gìn vệ sinh, mỹ quan chung và không mang vật nuôi vào Khu phức hợp Thể thao;
+Ref_text:
+Quý Cư dân vui lòng đặt lịch trước 01 ngày trên ứng dụng, mang theo Thẻ Cư dân và xuất trình nội dung lịch sử đã đặt thành công trên ứng dụng trên điện thoại (không bao gồm ảnh chụp, bản in cứng) trước khi sử dụng dịch vụ tại Khu phức hợp Thể thao;
+Quý cư dân vui lòng vào App và thao tác đặt lịch sử dụng trong giờ hành chính từ 08:30 đến 17:30
+Sử dụng theo đúng khung giờ đã đặt, trường hợp đến muộn từ 30 phút trở lên được coi là hủy lịch;
+Thao tác hủy trên ứng dụng hoặc thông báo cho Ban Quản lý ít nhất 02 tiếng trước giờ đã đăng ký nếu thay đổi kế hoạch sử dụng;
+Giữ gìn vệ sinh, mỹ quan chung và không mang vật nuôi vào Khu phức hợp Thể thao;
+Có ý thức giữ gìn tài sản chung và thông báo ngay cho Ban Quản lý nếu phát hiện bất kỳ trường hợp hư hại nào đối với cơ sở vật chất của Khu phức hợp Thể thao. Không tự ý thay đổi các trang thiết bị đã được bố trí theo tiêu chuẩn;
+Không đi giày đế cứng, giày cao gót vào sân;
+Tuân thủ nếp sống văn minh, không gây gổ đánh nhau, nói tục, chửi bậy;
+Trẻ em dưới 12 tuổi chỉ sử dụng sân khi có người lớn giám sát đi kèm;
+Nghiêm cấm hút thuốc trong Khu phức hợp Thể thao;
+Không tổ chức dạy và học các môn thể thao tại Khu phức hợp Thể thao nhằm mục đích kinh doanh, cho thuê/cho mượn Thẻ Cư dân/vị trí đã đặt thành công dưới mọi hình thức.
+Title: ['SÂN TENNIS', '4. Quy định sử dụng Khu phức hợp Thể thao']
+
+-----Ref_text_8----- 
+ -----Chunk_6-----
+Chunk_content: Có ý thức giữ gìn tài sản chung và thông báo ngay cho Ban Quản lý nếu phát hiện bất kỳ trường hợp hư hại nào đối với cơ sở vật chất của Khu phức hợp Thể thao. Không tự ý thay đổi các trang thiết bị đã được bố trí theo tiêu chuẩn;
+Ref_text:
+Quý Cư dân vui lòng đặt lịch trước 01 ngày trên ứng dụng, mang theo Thẻ Cư dân và xuất trình nội dung lịch sử đã đặt thành công trên ứng dụng trên điện thoại (không bao gồm ảnh chụp, bản in cứng) trước khi sử dụng dịch vụ tại Khu phức hợp Thể thao;
+Quý cư dân vui lòng vào App và thao tác đặt lịch sử dụng trong giờ hành chính từ 08:30 đến 17:30
+Sử dụng theo đúng khung giờ đã đặt, trường hợp đến muộn từ 30 phút trở lên được coi là hủy lịch;
+Thao tác hủy trên ứng dụng hoặc thông báo cho Ban Quản lý ít nhất 02 tiếng trước giờ đã đăng ký nếu thay đổi kế hoạch sử dụng;
+Giữ gìn vệ sinh, mỹ quan chung và không mang vật nuôi vào Khu phức hợp Thể thao;
+Có ý thức giữ gìn tài sản chung và thông báo ngay cho Ban Quản lý nếu phát hiện bất kỳ trường hợp hư hại nào đối với cơ sở vật chất của Khu phức hợp Thể thao. Không tự ý thay đổi các trang thiết bị đã được bố trí theo tiêu chuẩn;
+Không đi giày đế cứng, giày cao gót vào sân;
+Tuân thủ nếp sống văn minh, không gây gổ đánh nhau, nói tục, chửi bậy;
+Trẻ em dưới 12 tuổi chỉ sử dụng sân khi có người lớn giám sát đi kèm;
+Nghiêm cấm hút thuốc trong Khu phức hợp Thể thao;
+Không tổ chức dạy và học các môn thể thao tại Khu phức hợp Thể thao nhằm mục đích kinh doanh, cho thuê/cho mượn Thẻ Cư dân/vị trí đã đặt thành công dưới mọi hình thức.
+Title: ['SÂN TENNIS', '4. Quy định sử dụng Khu phức hợp Thể thao']
+
+-----Ref_text_8----- 
+ -----Chunk_7-----
+Chunk_content: Không đi giày đế cứng, giày cao gót vào sân;
+Ref_text:
+Quý Cư dân vui lòng đặt lịch trước 01 ngày trên ứng dụng, mang theo Thẻ Cư dân và xuất trình nội dung lịch sử đã đặt thành công trên ứng dụng trên điện thoại (không bao gồm ảnh chụp, bản in cứng) trước khi sử dụng dịch vụ tại Khu phức hợp Thể thao;
+Quý cư dân vui lòng vào App và thao tác đặt lịch sử dụng trong giờ hành chính từ 08:30 đến 17:30
+Sử dụng theo đúng khung giờ đã đặt, trường hợp đến muộn từ 30 phút trở lên được coi là hủy lịch;
+Thao tác hủy trên ứng dụng hoặc thông báo cho Ban Quản lý ít nhất 02 tiếng trước giờ đã đăng ký nếu thay đổi kế hoạch sử dụng;
+Giữ gìn vệ sinh, mỹ quan chung và không mang vật nuôi vào Khu phức hợp Thể thao;
+Có ý thức giữ gìn tài sản chung và thông báo ngay cho Ban Quản lý nếu phát hiện bất kỳ trường hợp hư hại nào đối với cơ sở vật chất của Khu phức hợp Thể thao. Không tự ý thay đổi các trang thiết bị đã được bố trí theo tiêu chuẩn;
+Không đi giày đế cứng, giày cao gót vào sân;
+Tuân thủ nếp sống văn minh, không gây gổ đánh nhau, nói tục, chửi bậy;
+Trẻ em dưới 12 tuổi chỉ sử dụng sân khi có người lớn giám sát đi kèm;
+Nghiêm cấm hút thuốc trong Khu phức hợp Thể thao;
+Không tổ chức dạy và học các môn thể thao tại Khu phức hợp Thể thao nhằm mục đích kinh doanh, cho thuê/cho mượn Thẻ Cư dân/vị trí đã đặt thành công dưới mọi hình thức.
+Title: ['SÂN TENNIS', '4. Quy định sử dụng Khu phức hợp Thể thao']
+
+-----Ref_text_8----- 
+ -----Chunk_8-----
+Chunk_content: Tuân thủ nếp sống văn minh, không gây gổ đánh nhau, nói tục, chửi bậy;
+Ref_text:
+Quý Cư dân vui lòng đặt lịch trước 01 ngày trên ứng dụng, mang theo Thẻ Cư dân và xuất trình nội dung lịch sử đã đặt thành công trên ứng dụng trên điện thoại (không bao gồm ảnh chụp, bản in cứng) trước khi sử dụng dịch vụ tại Khu phức hợp Thể thao;
+Quý cư dân vui lòng vào App và thao tác đặt lịch sử dụng trong giờ hành chính từ 08:30 đến 17:30
+Sử dụng theo đúng khung giờ đã đặt, trường hợp đến muộn từ 30 phút trở lên được coi là hủy lịch;
+Thao tác hủy trên ứng dụng hoặc thông báo cho Ban Quản lý ít nhất 02 tiếng trước giờ đã đăng ký nếu thay đổi kế hoạch sử dụng;
+Giữ gìn vệ sinh, mỹ quan chung và không mang vật nuôi vào Khu phức hợp Thể thao;
+Có ý thức giữ gìn tài sản chung và thông báo ngay cho Ban Quản lý nếu phát hiện bất kỳ trường hợp hư hại nào đối với cơ sở vật chất của Khu phức hợp Thể thao. Không tự ý thay đổi các trang thiết bị đã được bố trí theo tiêu chuẩn;
+Không đi giày đế cứng, giày cao gót vào sân;
+Tuân thủ nếp sống văn minh, không gây gổ đánh nhau, nói tục, chửi bậy;
+Trẻ em dưới 12 tuổi chỉ sử dụng sân khi có người lớn giám sát đi kèm;
+Nghiêm cấm hút thuốc trong Khu phức hợp Thể thao;
+Không tổ chức dạy và học các môn thể thao tại Khu phức hợp Thể thao nhằm mục đích kinh doanh, cho thuê/cho mượn Thẻ Cư dân/vị trí đã đặt thành công dưới mọi hình thức.
+Title: ['SÂN TENNIS', '4. Quy định sử dụng Khu phức hợp Thể thao']
+
+-----Ref_text_8----- 
+ -----Chunk_9-----
+Chunk_content: Trẻ em dưới 12 tuổi chỉ sử dụng sân khi có người lớn giám sát đi kèm;
+Ref_text:
+Quý Cư dân vui lòng đặt lịch trước 01 ngày trên ứng dụng, mang theo Thẻ Cư dân và xuất trình nội dung lịch sử đã đặt thành công trên ứng dụng trên điện thoại (không bao gồm ảnh chụp, bản in cứng) trước khi sử dụng dịch vụ tại Khu phức hợp Thể thao;
+Quý cư dân vui lòng vào App và thao tác đặt lịch sử dụng trong giờ hành chính từ 08:30 đến 17:30
+Sử dụng theo đúng khung giờ đã đặt, trường hợp đến muộn từ 30 phút trở lên được coi là hủy lịch;
+Thao tác hủy trên ứng dụng hoặc thông báo cho Ban Quản lý ít nhất 02 tiếng trước giờ đã đăng ký nếu thay đổi kế hoạch sử dụng;
+Giữ gìn vệ sinh, mỹ quan chung và không mang vật nuôi vào Khu phức hợp Thể thao;
+Có ý thức giữ gìn tài sản chung và thông báo ngay cho Ban Quản lý nếu phát hiện bất kỳ trường hợp hư hại nào đối với cơ sở vật chất của Khu phức hợp Thể thao. Không tự ý thay đổi các trang thiết bị đã được bố trí theo tiêu chuẩn;
+Không đi giày đế cứng, giày cao gót vào sân;
+Tuân thủ nếp sống văn minh, không gây gổ đánh nhau, nói tục, chửi bậy;
+Trẻ em dưới 12 tuổi chỉ sử dụng sân khi có người lớn giám sát đi kèm;
+Nghiêm cấm hút thuốc trong Khu phức hợp Thể thao;
+Không tổ chức dạy và học các môn thể thao tại Khu phức hợp Thể thao nhằm mục đích kinh doanh, cho thuê/cho mượn Thẻ Cư dân/vị trí đã đặt thành công dưới mọi hình thức.
+Title: ['SÂN TENNIS', '4. Quy định sử dụng Khu phức hợp Thể thao']
+
+-----Ref_text_8----- 
+ -----Chunk_10-----
+Chunk_content: Nghiêm cấm hút thuốc trong Khu phức hợp Thể thao;
+Ref_text:
+Quý Cư dân vui lòng đặt lịch trước 01 ngày trên ứng dụng, mang theo Thẻ Cư dân và xuất trình nội dung lịch sử đã đặt thành công trên ứng dụng trên điện thoại (không bao gồm ảnh chụp, bản in cứng) trước khi sử dụng dịch vụ tại Khu phức hợp Thể thao;
+Quý cư dân vui lòng vào App và thao tác đặt lịch sử dụng trong giờ hành chính từ 08:30 đến 17:30
+Sử dụng theo đúng khung giờ đã đặt, trường hợp đến muộn từ 30 phút trở lên được coi là hủy lịch;
+Thao tác hủy trên ứng dụng hoặc thông báo cho Ban Quản lý ít nhất 02 tiếng trước giờ đã đăng ký nếu thay đổi kế hoạch sử dụng;
+Giữ gìn vệ sinh, mỹ quan chung và không mang vật nuôi vào Khu phức hợp Thể thao;
+Có ý thức giữ gìn tài sản chung và thông báo ngay cho Ban Quản lý nếu phát hiện bất kỳ trường hợp hư hại nào đối với cơ sở vật chất của Khu phức hợp Thể thao. Không tự ý thay đổi các trang thiết bị đã được bố trí theo tiêu chuẩn;
+Không đi giày đế cứng, giày cao gót vào sân;
+Tuân thủ nếp sống văn minh, không gây gổ đánh nhau, nói tục, chửi bậy;
+Trẻ em dưới 12 tuổi chỉ sử dụng sân khi có người lớn giám sát đi kèm;
+Nghiêm cấm hút thuốc trong Khu phức hợp Thể thao;
+Không tổ chức dạy và học các môn thể thao tại Khu phức hợp Thể thao nhằm mục đích kinh doanh, cho thuê/cho mượn Thẻ Cư dân/vị trí đã đặt thành công dưới mọi hình thức.
+Title: ['SÂN TENNIS', '4. Quy định sử dụng Khu phức hợp Thể thao']
+
+-----Ref_text_8----- 
+ -----Chunk_11-----
+Chunk_content: Không tổ chức dạy và học các môn thể thao tại Khu phức hợp Thể thao nhằm mục đích kinh doanh, cho thuê/cho mượn Thẻ Cư dân/vị trí đã đặt thành công dưới mọi hình thức.
+Ref_text:
+Quý Cư dân vui lòng đặt lịch trước 01 ngày trên ứng dụng, mang theo Thẻ Cư dân và xuất trình nội dung lịch sử đã đặt thành công trên ứng dụng trên điện thoại (không bao gồm ảnh chụp, bản in cứng) trước khi sử dụng dịch vụ tại Khu phức hợp Thể thao;
+Quý cư dân vui lòng vào App và thao tác đặt lịch sử dụng trong giờ hành chính từ 08:30 đến 17:30
+Sử dụng theo đúng khung giờ đã đặt, trường hợp đến muộn từ 30 phút trở lên được coi là hủy lịch;
+Thao tác hủy trên ứng dụng hoặc thông báo cho Ban Quản lý ít nhất 02 tiếng trước giờ đã đăng ký nếu thay đổi kế hoạch sử dụng;
+Giữ gìn vệ sinh, mỹ quan chung và không mang vật nuôi vào Khu phức hợp Thể thao;
+Có ý thức giữ gìn tài sản chung và thông báo ngay cho Ban Quản lý nếu phát hiện bất kỳ trường hợp hư hại nào đối với cơ sở vật chất của Khu phức hợp Thể thao. Không tự ý thay đổi các trang thiết bị đã được bố trí theo tiêu chuẩn;
+Không đi giày đế cứng, giày cao gót vào sân;
+Tuân thủ nếp sống văn minh, không gây gổ đánh nhau, nói tục, chửi bậy;
+Trẻ em dưới 12 tuổi chỉ sử dụng sân khi có người lớn giám sát đi kèm;
+Nghiêm cấm hút thuốc trong Khu phức hợp Thể thao;
+Không tổ chức dạy và học các môn thể thao tại Khu phức hợp Thể thao nhằm mục đích kinh doanh, cho thuê/cho mượn Thẻ Cư dân/vị trí đã đặt thành công dưới mọi hình thức.
+Title: ['SÂN TENNIS', '4. Quy định sử dụng Khu phức hợp Thể thao']
+
+-----Ref_text_9----- 
+ -----Chunk_1-----
+Chunk_content: Các trường hợp vi phạm/không tuân thủ quy định nêu trên/Nội quy Khu Đô thị/quy định của pháp luật, Ban Quản lý rất tiếc sẽ phải từ chối phục vụ và/hoặc áp dụng các chế tài ngừng cung cấp dịch vụ tại Khu phức hợp Thể thao trong vòng 02 tháng.
+Ref_text:
+Các trường hợp vi phạm/không tuân thủ quy định nêu trên/Nội quy Khu Đô thị/quy định của pháp luật, Ban Quản lý rất tiếc sẽ phải từ chối phục vụ và/hoặc áp dụng các chế tài ngừng cung cấp dịch vụ tại Khu phức hợp Thể thao trong vòng 02 tháng.
+Title: ['SÂN TENNIS', '4. Quy định sử dụng Khu phức hợp Thể thao']
+
+-----Ref_text_10----- 
+ -----Chunk_1-----
+Chunk_content: Ban Quản lý rất mong nhận được sự ủng hộ, hợp tác của Quý Cư dân góp phần xây dựng và duy trì môi trường sống văn minh, hiện đại tại Khu Đô thị Vinhomes Ocean Park.
+Ref_text:
+Ban Quản lý rất mong nhận được sự ủng hộ, hợp tác của Quý Cư dân góp phần xây dựng và duy trì môi trường sống văn minh, hiện đại tại Khu Đô thị Vinhomes Ocean Park.
+Title: ['SÂN TENNIS', '4. Quy định sử dụng Khu phức hợp Thể thao']
+
+-----Ref_text_11----- 
+ -----Chunk_1-----
+Chunk_content: 
+Ref_text:
+
+Title: ['SÂN TENNIS', '4. Quy định sử dụng Khu phức hợp Thể thao']
+
+-----Ref_text_12----- 
+ -----Chunk_1-----
+Chunk_content: 
+Ref_text:
+
+Title: ['SÂN TENNIS', '4. Quy định sử dụng Khu phức hợp Thể thao']
+
