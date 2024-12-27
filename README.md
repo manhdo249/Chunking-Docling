@@ -42,15 +42,21 @@ Key configuration options include:
 - **Input**: Choose PDF, DOCX, JPG, ... formats.
 - **Output**: JSON format.  
 
+## **Chunking Table**
+### Origin
+![](https://i.imgur.com/vEWbI0d.png)
+### Chunking
+<p align="center">
+  <img src="https://i.imgur.com/WPhOQFt.png" alt="Image">
+</p>
+
 ## **Usage Examples**
 
 ### Run api.py
 ```bash
 uvicorn api:app --host 0.0.0.0 --port 8073
 ```
-
 ### Upload file and chunking
-
 - Open http://0.0.0.0:8073/docs on browser 
 - Watch this video
 <div align="center">
