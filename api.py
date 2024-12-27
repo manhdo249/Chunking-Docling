@@ -174,9 +174,10 @@ if __name__ == "__main__":
         reload=config('DEBUG', default=False, cast=bool)  # Reload 
     )
 
-# --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Using for chunking Table
+## Using for chunking Table
+# import re 
 # from fastapi import FastAPI, UploadFile, File
 # from docling.document_converter import DocumentConverter
 # from docling_core.transforms.chunker import HierarchicalChunker
@@ -188,6 +189,14 @@ if __name__ == "__main__":
 # import time 
 
 # app = FastAPI()
+
+# from langchain.text_splitter import RecursiveCharacterTextSplitter
+
+# text_splitter = RecursiveCharacterTextSplitter(
+#     chunk_size=512,  # Max_length
+#     chunk_overlap=10,  # Character
+#     separators=["\n", ".", " "]  # Order of priority breakdown
+# )
 
 # @app.post("/upload_pdf/")
 # async def upload_pdf(file: UploadFile = File(...)):
@@ -210,17 +219,20 @@ if __name__ == "__main__":
 
 #     current_doc_item_index = 1  
 
-#     for _, chunk in enumerate(chunks):
+#     for i, chunk in enumerate(chunks):
 #         title = chunk.meta.headings
-#         ref_text = chunk.text        
-
-#         chunk_info = {
-#             "ChunkIndex": current_doc_item_index,  
-#             "Chunk": ref_text,
-#             "Title": title             
-#         }
-#         chunk_data.append(chunk_info)
-#         current_doc_item_index += 1
+#         ref_text = chunk.text
+#         minichunks = text_splitter.split_text(ref_text) 
+#         for _,minichunk in enumerate(minichunks):
+#             chunk_info = {
+#                 "ChunkIndex": current_doc_item_index,
+#                 "Chunk": minichunk,
+#                 "GroupIndex": i+1,  
+#                 "RefText": ref_text,
+#                 "Title": title             
+#             }
+#             chunk_data.append(chunk_info)
+#             current_doc_item_index += 1
 
 #     end_time = time.time()
 #     latency = end_time - start_time
@@ -233,7 +245,7 @@ if __name__ == "__main__":
 #     uvicorn.run(
 #         "api:app",  
 #         host=config("HOST", default="0.0.0.0"),  # Global
-#         port=config("PORT", default=8075, cast=int),  # Port
+#         port=config("PORT", default=8095, cast=int),  # Port
 #         reload=config('DEBUG', default=False, cast=bool)  # Reload 
 #     )
 
