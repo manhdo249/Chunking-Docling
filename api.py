@@ -195,7 +195,7 @@ if __name__ == "__main__":
 # text_splitter = RecursiveCharacterTextSplitter(
 #     chunk_size=512,  # Max_length
 #     chunk_overlap=10,  # Character
-#     separators=["\n", ".", " "]  # Order of priority breakdown
+#     separators=["\n"]  # Order of priority breakdown
 # )
 
 # @app.post("/upload_pdf/")
@@ -221,7 +221,7 @@ if __name__ == "__main__":
 
 #     for i, chunk in enumerate(chunks):
 #         title = chunk.meta.headings
-#         ref_text = chunk.text
+#         ref_text = chunk.text.replace(". ",".\n")
 #         minichunks = text_splitter.split_text(ref_text) 
 #         for _,minichunk in enumerate(minichunks):
 #             chunk_info = {
