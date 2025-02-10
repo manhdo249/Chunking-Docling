@@ -297,53 +297,53 @@ text_splitter = RecursiveCharacterTextSplitter(
     separators=["\n"]  # Order of priority breakdown
 )
 
-def crop_pdf_pymupdf(input_path, output_path, top_crop_percent=10, bottom_crop_percent=5):
-    """
-    Cắt 10% từ phía trên và 5% từ phía dưới của mỗi trang trong file PDF.
+# def crop_pdf_pymupdf(input_path, output_path, top_crop_percent=10, bottom_crop_percent=5):
+#     """
+#     Cắt 10% từ phía trên và 5% từ phía dưới của mỗi trang trong file PDF.
 
-    :param input_path: Đường dẫn tới file PDF nguồn.
-    :param output_path: Đường dẫn tới file PDF đích sau khi cắt.
-    :param top_crop_percent: Tỷ lệ phần trăm cần cắt từ phía trên (mặc định là 10%).
-    :param bottom_crop_percent: Tỷ lệ phần trăm cần cắt từ phía dưới (mặc định là 5%).
-    """
-    # Mở file PDF nguồn
-    doc = fitz.open(input_path)
+#     :param input_path: Đường dẫn tới file PDF nguồn.
+#     :param output_path: Đường dẫn tới file PDF đích sau khi cắt.
+#     :param top_crop_percent: Tỷ lệ phần trăm cần cắt từ phía trên (mặc định là 10%).
+#     :param bottom_crop_percent: Tỷ lệ phần trăm cần cắt từ phía dưới (mặc định là 5%).
+#     """
+#     # Mở file PDF nguồn
+#     doc = fitz.open(input_path)
     
-    for page_number, page in enumerate(doc, start=1):
-        rect = page.rect
-        width = rect.width
-        height = rect.height
+#     for page_number, page in enumerate(doc, start=1):
+#         rect = page.rect
+#         width = rect.width
+#         height = rect.height
         
-        # Tính toán số điểm cần cắt từ trên và dưới
-        top_crop_amount = height * top_crop_percent / 100
-        bottom_crop_amount = height * bottom_crop_percent / 100
+#         # Tính toán số điểm cần cắt từ trên và dưới
+#         top_crop_amount = height * top_crop_percent / 100
+#         bottom_crop_amount = height * bottom_crop_percent / 100
         
-        # Thiết lập vùng cắt mới
-        new_rect = fitz.Rect(
-            rect.x0, 
-            rect.y0 + top_crop_amount, 
-            rect.x1, 
-            rect.y1 - bottom_crop_amount
-        )
-        page.set_cropbox(new_rect)
+#         # Thiết lập vùng cắt mới
+#         new_rect = fitz.Rect(
+#             rect.x0, 
+#             rect.y0 + top_crop_amount, 
+#             rect.x1, 
+#             rect.y1 - bottom_crop_amount
+#         )
+#         page.set_cropbox(new_rect)
         
-        print(f"Trang {page_number}: Cắt {top_crop_percent}% từ trên và {bottom_crop_percent}% từ dưới.")
+#         print(f"Trang {page_number}: Cắt {top_crop_percent}% từ trên và {bottom_crop_percent}% từ dưới.")
     
-    # Lưu file PDF đã cắt
-    doc.save(output_path)
-    doc.close()
-    print(f"Đã cắt {input_path} và lưu kết quả vào {output_path}")
+#     # Lưu file PDF đã cắt
+#     doc.save(output_path)
+#     doc.close()
+#     print(f"Đã cắt {input_path} và lưu kết quả vào {output_path}")
 
 @app.post("/upload_pdf/")
 async def upload_pdf(
     file: UploadFile = File(...),
-    top_crop_percent: float = 10.0  # Giá trị mặc định là 10% nếu người dùng không cung cấp
+    # top_crop_percent: float = 10.0  # Giá trị mặc định là 10% nếu người dùng không cung cấp
 ):
     """
     API endpoint để tải lên file PDF, cắt theo tỷ lệ được cung cấp và trả về các chunks đã xử lý.
     
     :param file: File PDF được tải lên.
-    :param top_crop_percent: Tỷ lệ phần trăm cần cắt từ phía trên.
+    :param top_crop_percent: Tỷ lệ phần trăm cần cắt từ phía trên. (Nhập số thực)
     """
     start_time = time.time()
     pdf_content = await file.read()
@@ -353,29 +353,50 @@ async def upload_pdf(
     with open(temp_file_path, 'wb') as f:
         f.write(pdf_content)
     
-    # Đường dẫn tạm thời cho file đã cắt
-    cropped_file_path = "/tmp/temp_cropped.pdf"
+    # # Đường dẫn tạm thời cho file đã cắt
+    # cropped_file_path = "/tmp/temp_cropped.pdf"
     
-    # Thực hiện cắt PDF
-    crop_pdf_pymupdf(
-        input_path=temp_file_path,
-        output_path=cropped_file_path,
-        top_crop_percent=top_crop_percent,
-        bottom_crop_percent=0  # Mặc định không cắt phía dưới
-    )
+    # # Thực hiện cắt PDF
+    # crop_pdf_pymupdf(
+    #     input_path=temp_file_path,
+    #     output_path=cropped_file_path,
+    #     top_crop_percent=top_crop_percent,
+    #     bottom_crop_percent=0  # Mặc định không cắt phía dưới
+    # )
     
     # Sử dụng file PDF đã cắt để chuyển đổi
-    conv_res = DocumentConverter().convert(cropped_file_path)
+    conv_res = DocumentConverter().convert(temp_file_path)
     doc = conv_res.document
     
-    # Xóa các file tạm sau khi sử dụng
-    try:
-        os.remove(temp_file_path)
-        os.remove(cropped_file_path)
-    except Exception as e:
-        print(f"Lỗi khi xóa file tạm: {e}")
+    # # Xóa các file tạm sau khi sử dụng
+    # try:
+    #     os.remove(temp_file_path)
+    #     os.remove(cropped_file_path)
+    # except Exception as e:
+    #     print(f"Lỗi khi xóa file tạm: {e}")
+
+    # Xử lý lỗi Role trong Docling
+    page_header_texts = set()
+    for item in doc.texts:
+        if item.label == "page_header":
+            page_header_texts.add(item.text)
+        elif item.text in page_header_texts:
+            item.label = "page_header"
     
-    chunks = list(HierarchicalChunker().chunk(doc))
+    # Xóa header-footer
+    new_doc = []
+    for minidoc in doc.texts:
+        if minidoc.label != "page_header" and minidoc.label != "page_footer":
+            new_doc.append(minidoc)
+    doc.texts = new_doc
+
+    
+    chunks = []
+    try:
+        for chunk in HierarchicalChunker().chunk(doc):
+            chunks.append(chunk)
+    except IndexError as e:
+        pass
 
     chunk_data = []
     current_doc_item_index = 1  
@@ -447,7 +468,7 @@ if __name__ == "__main__":
     uvicorn.run(
         "api:app",  
         host=config("HOST", default="0.0.0.0"),  # Global
-        port=config("PORT", default=8097, cast=int),  # Port
+        port=config("PORT", default=2409, cast=int),  # Port
         reload=config('DEBUG', default=False, cast=bool)  # Reload 
     )
 
