@@ -334,89 +334,89 @@ text_splitter = RecursiveCharacterTextSplitter(
 #     doc.close()
 #     print(f"Đã cắt {input_path} và lưu kết quả vào {output_path}")
 
-def get_ref_text(full_text: str, chunk: str, max_tokens: int = 2000) -> str:
-    """
-    Trích xuất một đoạn văn bản (RefText) từ full_text có chứa chunk và mở rộng thêm ngữ cảnh
-    trước và sau sao cho tổng số ký tự không vượt quá max_tokens. 
-    Mỗi ký tự được xem như là một token.
-    """
-    # Nếu chunk rỗng, trả về max_tokens ký tự đầu tiên của full_text
-    if not chunk:
-        return full_text[:max_tokens]
-
-    # Tìm vị trí xuất hiện đầu tiên của chunk trong full_text
-    pos = full_text.find(chunk)
-    if pos == -1:
-        # Nếu không tìm thấy chunk, trả về max_tokens ký tự đầu tiên
-        return full_text[:max_tokens]
-
-    chunk_length = len(chunk)
-    # Tính số ký tự ngữ cảnh mỗi bên (nếu có thể)
-    half_context = (max_tokens - chunk_length) // 2
-
-    # Xác định vị trí cắt bên trái và bên phải
-    left_index = max(0, pos - half_context)
-    right_index = pos + chunk_length + half_context
-
-    # Điều chỉnh nếu right_index vượt quá độ dài của full_text
-    if right_index > len(full_text):
-        diff = right_index - len(full_text)
-        right_index = len(full_text)
-        left_index = max(0, left_index - diff)
-
-    # Nếu đoạn trích chưa đủ max_tokens, cố mở rộng nếu có thể
-    if (right_index - left_index) < max_tokens:
-        if left_index == 0:
-            right_index = min(len(full_text), left_index + max_tokens)
-        elif right_index == len(full_text):
-            left_index = max(0, right_index - max_tokens)
-
-    return full_text[left_index:right_index]
-
 # def get_ref_text(full_text: str, chunk: str, max_tokens: int = 2000) -> str:
 #     """
 #     Trích xuất một đoạn văn bản (RefText) từ full_text có chứa chunk và mở rộng thêm ngữ cảnh
-#     trước và sau sao cho tổng số token không vượt quá max_tokens.
-#     Mỗi tokens là một từ. 
+#     trước và sau sao cho tổng số ký tự không vượt quá max_tokens. 
+#     Mỗi ký tự được xem như là một token.
 #     """
-#     tokens = full_text.split()
-#     chunk_tokens = chunk.split()
-#     if not chunk_tokens:
-#         return " ".join(tokens[:max_tokens])
-    
-#     # Tìm vị trí xuất hiện đầu tiên của chunk trong full_text theo dạng token list
-#     start_token_index = 0
-#     found = False
-#     for i in range(len(tokens) - len(chunk_tokens) + 1):
-#         if tokens[i:i + len(chunk_tokens)] == chunk_tokens:
-#             start_token_index = i
-#             found = True
-#             break
-#     if not found:
-#         # Nếu không tìm thấy, trả về max_tokens token đầu tiên
-#         return " ".join(tokens[:max_tokens])
-    
-#     total_tokens = len(tokens)
-#     chunk_length = len(chunk_tokens)
-#     # Tính số token ngữ cảnh mỗi bên (nếu có thể)
+#     # Nếu chunk rỗng, trả về max_tokens ký tự đầu tiên của full_text
+#     if not chunk:
+#         return full_text[:max_tokens]
+
+#     # Tìm vị trí xuất hiện đầu tiên của chunk trong full_text
+#     pos = full_text.find(chunk)
+#     if pos == -1:
+#         # Nếu không tìm thấy chunk, trả về max_tokens ký tự đầu tiên
+#         return full_text[:max_tokens]
+
+#     chunk_length = len(chunk)
+#     # Tính số ký tự ngữ cảnh mỗi bên (nếu có thể)
 #     half_context = (max_tokens - chunk_length) // 2
-    
+
 #     # Xác định vị trí cắt bên trái và bên phải
-#     left_index = max(0, start_token_index - half_context)
-#     right_index = min(total_tokens, start_token_index + chunk_length + half_context)
+#     left_index = max(0, pos - half_context)
+#     right_index = pos + chunk_length + half_context
+
+#     # Điều chỉnh nếu right_index vượt quá độ dài của full_text
+#     if right_index > len(full_text):
+#         diff = right_index - len(full_text)
+#         right_index = len(full_text)
+#         left_index = max(0, left_index - diff)
+
+#     # Nếu đoạn trích chưa đủ max_tokens, cố mở rộng nếu có thể
+#     if (right_index - left_index) < max_tokens:
+#         if left_index == 0:
+#             right_index = min(len(full_text), left_index + max_tokens)
+#         elif right_index == len(full_text):
+#             left_index = max(0, right_index - max_tokens)
+
+#     return full_text[left_index:right_index]
+
+def get_ref_text(full_text: str, chunk: str, max_tokens: int = 2000) -> str:
+    """
+    Trích xuất một đoạn văn bản (RefText) từ full_text có chứa chunk và mở rộng thêm ngữ cảnh
+    trước và sau sao cho tổng số token không vượt quá max_tokens.
+    Mỗi tokens là một từ. 
+    """
+    tokens = full_text.split()
+    chunk_tokens = chunk.split()
+    if not chunk_tokens:
+        return " ".join(tokens[:max_tokens])
     
-#     # Nếu đoạn trích chưa đủ số token quy định, cố mở rộng nếu có thể
-#     while (right_index - left_index) < max_tokens and left_index > 0:
-#         left_index = max(0, left_index - 1)
-#     while (right_index - left_index) < max_tokens and right_index < total_tokens:
-#         right_index = min(total_tokens, right_index + 1)
+    # Tìm vị trí xuất hiện đầu tiên của chunk trong full_text theo dạng token list
+    start_token_index = 0
+    found = False
+    for i in range(len(tokens) - len(chunk_tokens) + 1):
+        if tokens[i:i + len(chunk_tokens)] == chunk_tokens:
+            start_token_index = i
+            found = True
+            break
+    if not found:
+        # Nếu không tìm thấy, trả về max_tokens token đầu tiên
+        return " ".join(tokens[:max_tokens])
     
-#     return " ".join(tokens[left_index:right_index])
+    total_tokens = len(tokens)
+    chunk_length = len(chunk_tokens)
+    # Tính số token ngữ cảnh mỗi bên (nếu có thể)
+    half_context = (max_tokens - chunk_length) // 2
+    
+    # Xác định vị trí cắt bên trái và bên phải
+    left_index = max(0, start_token_index - half_context)
+    right_index = min(total_tokens, start_token_index + chunk_length + half_context)
+    
+    # Nếu đoạn trích chưa đủ số token quy định, cố mở rộng nếu có thể
+    while (right_index - left_index) < max_tokens and left_index > 0:
+        left_index = max(0, left_index - 1)
+    while (right_index - left_index) < max_tokens and right_index < total_tokens:
+        right_index = min(total_tokens, right_index + 1)
+    
+    return " ".join(tokens[left_index:right_index])
 
 @app.post("/upload_pdf/")
 async def upload_pdf(
     file: UploadFile = File(...),
-    ref_text_tokens: int = 2000,
+    ref_text_tokens: int = 1000,
     # top_crop_percent: float = 10.0  # Giá trị mặc định là 10% nếu người dùng không cung cấp
 ):
     """
